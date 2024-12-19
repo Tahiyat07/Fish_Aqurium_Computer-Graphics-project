@@ -1,4 +1,4 @@
-# **Aquarium Simulation Project**
+# **Fish Aquarium Project**
 
 This project is a graphical simulation designed to replicate the appearance and movement of fish in an aquarium, providing a visually engaging and dynamic experience. The program uses the graphics.h library and is developed in Code::Blocks.
 
