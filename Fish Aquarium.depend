@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734241963 source:d:\cg_7th_iiuc\fish aquarium\main.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+
